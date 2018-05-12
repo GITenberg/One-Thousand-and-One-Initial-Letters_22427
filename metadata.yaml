@@ -1,0 +1,31 @@
+_repo: One-Thousand-and-One-Initial-Letters_22427
+_version: 0.1.0
+alternative_title: 1001 illuminated initial letters
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jones, Owen
+    birthdate: 1809
+    deathdate: 1874
+    gutenberg_agent_id: '25330'
+    url: http://www.gutenberg.org/2009/agents/25330
+description: ''
+gutenberg_issued: '2007-08-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22427'
+  lccn: '12015439'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Initials'
+- !lcsh 'Illumination of books and manuscripts'
+- !lcsh 'Alphabets'
+- !lcc 'NK'
+- !lcsh 'Decoration and ornament -- Victorian style'
+title: One Thousand and One Initial Letters
+url: http://www.gutenberg.org/ebooks/22427
